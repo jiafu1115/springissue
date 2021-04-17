@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationListener=\
+com.spring.puzzle.class7.example2.MyApplicationEnvironmentPreparedEventListener
