@@ -1,4 +1,16 @@
-package com.spring.puzzle.others.transaction;
+add dependency in pom.xml:
+
+<!--        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>1.3.2</version>
+        </dependency>-->
+
+
+unzip the transaction.7z
+
+
+the related sqls:
 
 /*
 CREATE TABLE `student`
