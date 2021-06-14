@@ -1,0 +1,21 @@
+###
+POST http://localhost:8080/students
+Content-Type: application/json
+
+{
+ "name": "this_is_my_name_which_is_too_long",
+ "age": 10
+}
+
+###
+POST http://localhost:8080/students
+Content-Type: application/json
+
+{
+"age": 10,
+"phone": {"number":"12306"}
+}
+
+###
+DELETE http://localhost:8080/students/0
+

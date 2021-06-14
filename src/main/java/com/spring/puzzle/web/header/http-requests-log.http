@@ -1,0 +1,18 @@
+###
+GET http://localhost:8080/hi1
+myheader: h1
+myheader: h2
+
+###
+GET http://localhost:8080/hi2
+myheader: myheadervalue
+
+
+###example 3
+GET http://localhost:8080/hi3
+
+
+###example 3
+GET http://localhost:8080/hi3
+Accept:application/json
+
